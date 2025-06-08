@@ -1,0 +1,6 @@
+/home/simingrui_0211/OS_experiment/lab_all/lab4/build/CMakeFiles/miniEuler.dir
+/home/simingrui_0211/OS_experiment/lab_all/lab4/build/CMakeFiles/edit_cache.dir
+/home/simingrui_0211/OS_experiment/lab_all/lab4/build/CMakeFiles/rebuild_cache.dir
+/home/simingrui_0211/OS_experiment/lab_all/lab4/build/bsp/CMakeFiles/bsp.dir
+/home/simingrui_0211/OS_experiment/lab_all/lab4/build/bsp/CMakeFiles/edit_cache.dir
+/home/simingrui_0211/OS_experiment/lab_all/lab4/build/bsp/CMakeFiles/rebuild_cache.dir
